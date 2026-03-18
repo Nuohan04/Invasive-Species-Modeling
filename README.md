@@ -8,4 +8,4 @@ Xiaoran Zhou
 
 Alex Wesorick
 
-Alex Jackson
+Alex Jackson - jack1931@msu.edu
