@@ -1,6 +1,6 @@
 # Invasive-Species-Modeling
 
-Jack Brach
+Jack Brach brachjac@msu.edu
 
 Nuohan Lin
 
