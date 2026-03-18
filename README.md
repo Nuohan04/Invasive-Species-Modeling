@@ -6,6 +6,6 @@ Nuohan Lin linnuoha@msu.edu
 
 Xiaoran Zhou - zhouxi60@msu.edu
 
-Alex Wesorick
+Alex Wesorick - wesoric9@msu.edu
 
 Alex Jackson - jack1931@msu.edu
