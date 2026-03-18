@@ -2,7 +2,7 @@
 
 Jack Brach brachjac@msu.edu
 
-Nuohan Lin
+Nuohan Lin linnuoha@msu.edu
 
 Xiaoran Zhou
 
